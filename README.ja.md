@@ -39,7 +39,7 @@ turbowarp-app-templateから生成した初期雛形です。用途固有の機�
 - photogrammetry：深度推定と融合・形状生成。
 - aframe：姿勢・投影設定と再構成結果の描画。
 
-実際の依存はpackage.jsonのturbowarp-app-shell 0.2.0のみです。上記の用途固有の接続は予定であり、未公開の初期拡張に依存しません。追加時には拡張のexact version、配布物hash、API manifest、評価順序を固定します。
+実際の依存はpackage.jsonのturbowarp-app-shell 0.3.0のみです。上記の用途固有の接続は予定であり、未公開の初期拡張に依存しません。追加時には拡張のexact version、配布物hash、API manifest、評価順序を固定します。
 
 ## 構成と開発
 
