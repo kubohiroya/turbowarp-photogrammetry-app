@@ -1,6 +1,6 @@
 # TurboWarp Photogrammetry App
 
-[English](README.md) | **日本語**
+[English](README.md) | 日本語
 
 校正したカメラを持って移動し、WebGPUで空間を逐次再構成するアプリです。
 

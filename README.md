@@ -1,6 +1,6 @@
 # TurboWarp Photogrammetry App
 
-**English** | [日本語](README.ja.md)
+English | [日本語](README.ja.md)
 
 An app that reconstructs a space incrementally with WebGPU as you walk around carrying a calibrated camera.
 
