@@ -3,16 +3,16 @@
   "version": "0.2.0",
   "private": true,
   "type": "module",
-  "description": "\u6821\u6b63\u3057\u305f\u30ab\u30e1\u30e9\u3092\u6301\u3063\u3066\u79fb\u52d5\u3057\u3001WebGPU\u3067\u7a7a\u9593\u3092\u9010\u6b21\u518d\u69cb\u6210\u3059\u308b\u30a2\u30d7\u30ea\u3067\u3059\u3002",
+  "description": "校正したカメラを持って移動し、WebGPUで空間を逐次再構成するアプリです。",
   "license": "MPL-2.0",
   "author": "Hiroya Kubo",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kubohiroya/turbowarp-photogrammetry-app.git"
   },
-  "packageManager": "pnpm@11.11.0",
+  "packageManager": "pnpm@11.28.8",
   "engines": {
-    "node": ">=22.18.0"
+    "node": ">=24"
   },
   "scripts": {
     "dev": "vite --host 127.0.0.1",
